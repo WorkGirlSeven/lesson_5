@@ -54,7 +54,7 @@ class Stack {
   
   isEmpty() {
     return !this.size;
-  };
+  }
   
   toArray() {
     let arr = [];
